@@ -107,7 +107,7 @@ position: absolute;
     position: absolute;
     width: 137px;
         height: 47px;
-        left: 1014px;
+    left: 1150px;
         top: 29px;
         font-family: 'Inter';
         font-style: normal;
@@ -122,7 +122,7 @@ position: absolute;
 position: absolute;
 width: 137px;
     height: 47px;
-    left: 1182px;
+    left: 1305px;
     top: 29px;
 
     font-family: 'Inter';
@@ -415,9 +415,9 @@ hr{
 }
 .txt3{
     position: absolute;
-        width: 217px;
+        width: 154px;
         height: 34px;
-        left: 1213px;
+    left: 1329px;
             top: 356px;
         font-family: 'Inter';
         font-style: normal;
@@ -455,27 +455,26 @@ position: absolute;
 }
 .img4_div{
     position: absolute;
-        width: 192px;
+        width: 235px;
         height: 175px;
-        left: 896px;
+        left: 898px;
         top: 459px;
         background: #2C2C2C;
         border-radius: 24px 24px 0px 0px;
-        border: 1px solid black;
 
 }
 .alt_img{
         position: absolute;
             left: -52px;
-            top: -1px;
-            width: 287px;
+                top: 0px;
+                    width: 334px;
             height: 181px;
             }
 .img5_div{
         position: absolute;
-            width: 251px;
+                width: 266px;
             height: 175px;
-            left: 1113px;
+            left: 1167px;
             top: 459px;
             background-image: url(./Asset/Rectangle_img4.png);
             border-radius: 24px 24px 0px 0px;
@@ -534,10 +533,10 @@ left: 35px;
         background-image: url(./Asset/logo2.png);
         background-size: cover;
         position: absolute;
-        width: 95px;
-        height: 53px;
-        left: 107px;
-        top: 11px;
+        width: 123px;
+            height: 53px;
+            left: 125px;
+            top: 11px;
         background-position: center;
 }
 
@@ -572,10 +571,10 @@ position: absolute;
 }
 .inner_text2 {
         position: absolute;
-            width: 201px;
-                height: 84px;
-                left: -4px;
-            top: 175px;
+                width: 236px;
+                    height: 84px;
+                    left: 0px;
+                    top: 175px;
             background: #2C2C2C;
             border-radius: 0px 0px 24px 24px;
       
@@ -584,9 +583,8 @@ position: absolute;
 
     position: absolute;
     width: 269px;
-        width: 250px;
             height: 84px;
-            left: 0px;
+            left: -2px;
     top:175px;
         background: #2C2C2C;
         border-radius: 0px 0px 24px 24px;
@@ -900,6 +898,7 @@ top: 334px;
         width: 11%;
         height: 170px;
 background-image: url(./Asset/con6_img1.png);
+border: 5px solid black;
 }
 .con_img2 {
 position: absolute;
@@ -908,6 +907,7 @@ top: 29px;
     width: 11%;
     height: 170px;
 background-image: url(./Asset/con6_img2.png);
+border: 5px solid black;
 }
 .con_img3{
 position: absolute;
@@ -916,20 +916,21 @@ position: absolute;
     width: 11%;
     height: 170px;
 background-image: url(./Asset/con6_img3.png);
+border: 5px solid black;
 }
 .con_img4{
     position: absolute;
         top: 90px;
-        left: 88%;
+        left: 89%;
         width: 11%;
         height: 170px;
     background-image: url(./Asset/con6_img4.png);
+    border: 5px solid black;
 }
 
 #hor{
-        background-color: white;
             transform: rotate(90deg);
-            width: 8%;
+        width: 7.5%;
             position: absolute;
             top: 48px;
             left: 39%;
@@ -937,23 +938,23 @@ background-image: url(./Asset/con6_img3.png);
 
 #hir{
     transform: rotate(90deg);
-        width: 8%;
+        width: 6%;
         position: absolute;
-        top: 48px;
-        left: 55%;
+        top: 38px;
+        left: 56%;
     }
 #her{
         transform: rotate(90deg);
-            width: 8%;
+            width: 7%;
             position: absolute;
             top: 48px;
             left: 90%;
 }
 #har{
     transform: rotate(90deg);
-        width: 9.5%;
+        width: 9%;
         position: absolute;
-        top: 59px;
+        top: 63px;
         left: 71%;
     }
 .container7 {
